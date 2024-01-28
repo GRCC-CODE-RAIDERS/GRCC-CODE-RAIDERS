@@ -27,5 +27,5 @@ Love our work? Show your support by starring our projects and spreading the word
 
 ---
 
-> _"Coding is not just about algorithms, it's about turning ideas into reality."_ - The GRCC Code Raiders
+> _"Coding is not just about algorithms, it's about turning ideas into reality."_
 
