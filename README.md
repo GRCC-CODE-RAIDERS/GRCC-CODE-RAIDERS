@@ -10,8 +10,7 @@
 - **🤗 Community**: Join our inclusive and supportive environment, welcoming all tech enthusiasts.
 
 ## 📅 Events and Meetups
-- **👨‍💻 Weekly Coding Sessions**: **Times coming soon**.
-- **🗣 Monthly Workshops**: Learn from guest speakers and engage in tech talks and hands-on sessions on the latest trends.
+- **👨‍💻 Weekly Meetings/Coding Sessions**: Mondays from 5:30PM (EST) to 6:30PM (EST). This time will be either used for project work, guest speakers or hackathons.
 - **🏆 Hackathons**: Challenge yourself in local and national coding competitions.
 
 ## 🚧 Current Projects
@@ -20,7 +19,7 @@
 
 ## 🙌 Join Us
 No matter your skill level, the GRCC Code Raiders have a spot for you!
-- **📝 Sign Up for the club (GRCC students)**: [GRCC Raider Connect](https://grcc.campuslabs.com/engage/organization/coderaiders)
+- **📝 Sign Up for the Club (GRCC students)**: [GRCC Raider Connect](https://grcc.campuslabs.com/engage/organization/coderaiders)
 - **💬 Connect**: Stay in the loop and join our [Discord](https://discord.gg/YKPdz4R3Pc)
 
 ## 🌍 Support Us
