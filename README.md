@@ -21,7 +21,7 @@
 ## 🙌 Join Us
 No matter your skill level, the GRCC Code Raiders have a spot for you!
 - **📝 Sign Up for the club (GRCC students)**: [GRCC Raider Connect](https://grcc.campuslabs.com/engage/organization/coderaiders)
-- **💬 Connect**: Stay in the loop and join our [Discord](https://discord.gg/swTknvjx)
+- **💬 Connect**: Stay in the loop and join our [Discord](https://discord.gg/YKPdz4R3Pc)
 
 ## 🌍 Support Us
 Love our work? Show your support by starring our projects and spreading the word!
