@@ -15,11 +15,12 @@
 - **🏆 Hackathons**: Challenge yourself in local and national coding competitions.
 
 ## 🚧 Current Projects
-- _Stay tuned for more!_
+- The Legend of Sleeping Bear Dunes, a 2D story game.
+- Enrollment Analysis - a data collection and machine learning project.
 
 ## 🙌 Join Us
 No matter your skill level, the GRCC Code Raiders have a spot for you!
-- **📝 Sign Up**: **more info coming soon**
+- **📝 Sign Up**: [GRCC Raider Connect](https://grcc.campuslabs.com/engage/organization/coderaiders)
 - **💬 Connect**: Stay in the loop and join our [Discord](https://discord.gg/swTknvjx)
 
 ## 🌍 Support Us
